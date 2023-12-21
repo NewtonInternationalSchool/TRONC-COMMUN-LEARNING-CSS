@@ -1,0 +1,24 @@
+h1, p {
+    color: orange;
+}
+
+body {
+    background-color: black;
+}
+main {
+    background-color: darkblue;
+}
+
+.yahya {
+    color: red;
+    font-size: xx-small;
+}
+
+.ghina {
+    color: white;
+}
+
+.abderrahman {
+    color: green;
+    font-size: 40px;
+}

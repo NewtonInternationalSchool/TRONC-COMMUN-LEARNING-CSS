@@ -1,0 +1,28 @@
+/* You are now able to start styling your files */
+
+h1 {
+    color: orange;
+    border: 3px solid white;
+    border-radius: 20px;
+} 
+body {
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p {
+    color: white;
+}
+
+.ayman {
+    background-color: white;
+    color: red;
+}
+
+.rayhana {
+    color: Green;
+    font-size: 40px;
+}
+.ayman2{
+    background-color: purple;
+}
