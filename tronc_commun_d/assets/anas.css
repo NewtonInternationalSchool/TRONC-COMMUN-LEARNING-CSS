@@ -1,0 +1,13 @@
+.whitecolor{
+    color: white
+}
+
+.dina {
+    background-color: blue;
+}
+
+.mybg {
+    background-image: url(bg.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

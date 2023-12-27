@@ -1,0 +1,22 @@
+.aya {
+    color: blue;
+    margin: 20px 30px 50px 10px;
+}
+
+.malak {
+    color: pink;
+    background-color: black;
+}
+
+.dark{
+    background-color: purple;
+}
+
+.bordered {
+    border: 3px dashed white;
+}
+
+.taha {
+    font-weight: 100;
+    font-family:Arial, Helvetica, sans-serif;
+}

@@ -1,20 +1,27 @@
+.bordered {
+    border: 2px solid black;
+}
+
 p {
-    color: orange;
+    color: pink;
+}
+h1 {
+    color: blue;
+}
+p{
+    color: yellow;
+}
+.yassine {
+    color: blue;
+    background: greenyellow;
+    border: 1px dashed black;
+    margin: 0px;
 }
 
-.yassineisepic {
+.bgred{
+    background-color: red;
+}
+
+.bgblue{
     background-color: blue;
-    color: white;
-    border: 3px solid black;
-}
-
-.newtoninternationschool {
-    color: green;
-    font-size: 70px;
-}
-
-.haithambg {
-    background-image: url(bg-haitham.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
 }
