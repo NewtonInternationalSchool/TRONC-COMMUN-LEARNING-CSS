@@ -1,27 +1,28 @@
- /* Selectors */
-/* Element Selection */
-p {
-    color: black;
+/* 
+background-color 
+color
+font-size
+background-image
+width
+height
+border
+CSS Box Model
+margin (margin-top;margin-bottom;margin-left;margin-right)
+padding ...
+display: flex (to make the following work:)
+{justify-content
+align-items
+flex-direction
+order
+align-self
 }
 
-h1 {
-    font-size:55px
+*/
+
+#box{
+    background-color: pink;
+    border: 3px solid black;
+    width: 300px;
+    padding: 30px 50px 100px 90px;
+    margin: 200px 40px 20px 150px;
 }
-
-/* Class Selection */
-
-.pink-color{
-    color: purple;
-}
-
-.bg-img{
-    background-image: url(images/bg-img2.jpeg);
-    background-size: cover;
-}
-
-
-/* Id Selection */
-
-/* Group Selectors (nested, multiple) */
-
-/* Css boxing modal */

@@ -1,0 +1,30 @@
+h1{
+    color:purple
+}
+
+.ismail {
+    color: red;
+}
+#salah {
+    background-color: black;
+    color: white;
+}
+.image {
+    width: 300px;
+}
+
+.douaa {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* 
+justify-content
+align-items 
+flex-direction
+order
+align-self
+flex-wrap
+flex-flow
+align-content
+*/

@@ -1,30 +1,37 @@
- /* Selectors */
-/* Element Selection */
-
-
-p {
-     color: pink;
-     background-color: Black;
+/* 
+background-color 
+color
+font-size
+margin (margin-top;margin-bottom;margin-left;margin-right)
+padding ...
+display: flex (to make the following work:)
+{justify-content
+align-items
+flex-direction
+order
+align-self
+flex-wrap
+}
+We arrived to Slide 20.
+*/
+.blueheader {
+    color: blue;
+}
+.haitham {
+    font-size:10px;
+    color: red;
+    background-color: black;
+}
+#haitham {
+    font-size: 20px;
+    color: blue;
+    background-color: pink;
 }
 
-.ayatextbigger {
-     font-size: xx-large;
-}
-
-h1 {
-     font-size: 20px;
-}
- /* Class Selection */
-.taha {
-     background-color: green;
+#naciri{
+    display:flex;
+    justify-content:flex-end;
+    
 }
 
 
- 
- 
- /* Id Selection */
- 
- /* Group Selectors (nested, multiple) */
- 
- /* Css boxing modal */
- 

@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color:red;
+}
+
+p{
+    color: white;
+}
+
+.rayhana{
+    color: yellow;
+}
+
+#ayman {
+    color: pink;
+}
+
+#rayhana {
+    color: aqua;
+}
+
+.ryan{
+    display: flex;
+    justify-content: space-evenly;
+}

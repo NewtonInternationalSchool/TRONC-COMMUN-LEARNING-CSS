@@ -1,0 +1,17 @@
+.ghina{
+    color: red;
+}
+
+#ghina{
+    color: blue;
+}
+
+#zak {
+    color: white;
+    background-color:black;
+}
+
+#rabia{
+    display: flex;
+    flex-direction: column;
+}
