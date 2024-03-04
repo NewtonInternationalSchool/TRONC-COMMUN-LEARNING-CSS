@@ -1,0 +1,28 @@
+body {
+    background-color: lightblue;
+}
+
+.marwa {
+    color: yellow;
+}
+
+p {
+    color: red;
+}
+
+.salah {
+    color: green;
+    font-size: 40px;
+}
+
+.blueitis{
+    color: blue;
+}
+
+.bg-dark{
+    background-color: black;
+}
+
+.bg-white{
+    background-color: white;
+}
